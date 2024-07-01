@@ -37,7 +37,7 @@ const Wallets = () => {
         </div>
       ))}
       <div><Link to={"/add-wallet"} className="add-wallet">Add Wallet</Link></div>
-      <div><Link to={"/"} className="logout">Logout</Link></div>
+      <div><Link to={"/cash-control-client"} className="logout">Logout</Link></div>
       <div class="nav-bar">
             <div class="nav-icon"></div>
             <div class="nav-icon"></div>
